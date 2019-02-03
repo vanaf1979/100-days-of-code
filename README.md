@@ -13,6 +13,7 @@
 - Va79 Site: Played a bit with the navigation.
 - Seobox site: Added the main navigation.
 - Seobox site: Added the footer.
+- Seobox plugin: Added canonical field.
 
 **Thoughts:** When stuck, move on to other parts of the task.
 
