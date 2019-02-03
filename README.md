@@ -14,6 +14,6 @@
 - Seobox site: Added the main navigation.
 - Seobox site: Added the footer.
 
-**Thoughts:** ...
+**Thoughts:** When stuck, move on to other parts of the task.
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
