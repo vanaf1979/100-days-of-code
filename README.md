@@ -7,7 +7,10 @@
 ### Day 0: February 3, 2019
 ##### Joined the 100 days of code challange.
 
-**Today's Progress**: ....
+**Today's Progress**:
+- Va79 Site: Added a sidebar to the writings page.
+- Va79 Site: Added breadcrumbs.
+- Va79 Site: Played a bit with the navigation.
 
 **Thoughts:** ...
 
