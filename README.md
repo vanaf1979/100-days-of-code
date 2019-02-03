@@ -14,6 +14,7 @@
 - Seobox site: Added the main navigation.
 - Seobox site: Added the footer.
 - Seobox plugin: Added canonical field.
+- Seobox plugin: Added hooks to write the meta tags.
 
 **Thoughts:** When stuck, move on to other parts of the task.
 
