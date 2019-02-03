@@ -11,7 +11,8 @@
 - Va79 Site: Added a sidebar to the writings page.
 - Va79 Site: Added breadcrumbs.
 - Va79 Site: Played a bit with the navigation.
-- Seobox site: Added the main navigation
+- Seobox site: Added the main navigation.
+- Seobox site: Added the footer.
 
 **Thoughts:** ...
 
