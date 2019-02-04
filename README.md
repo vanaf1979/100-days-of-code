@@ -4,7 +4,17 @@
 
 # 100 Days Of Code - Log
 
-### Day 0: February 3, 2019
+### Day 2: February 4, 2019
+
+**Today's Progress**:
+- Seobox plugin: Finished "Add fields" feature.
+- Seobox plugin: Released 0.5.0 pre-release to github.
+
+**Thoughts:** When stuck, move on to other parts of the task.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
+### Day 1: February 3, 2019
 ##### Joined the 100 days of code challange.
 
 **Today's Progress**:
