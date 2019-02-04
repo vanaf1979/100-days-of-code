@@ -10,7 +10,7 @@
 - Seobox plugin: Finished "Add fields" feature.
 - Seobox plugin: Released 0.5.0 pre-release to github.
 
-**Thoughts:** When stuck, move on to other parts of the task.
+**Thoughts:** ...
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
