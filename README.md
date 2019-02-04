@@ -9,8 +9,9 @@
 **Today's Progress**:
 - Seobox plugin: Finished "Add fields" feature.
 - Seobox plugin: Released 0.5.0 pre-release to github.
+- Seobox plugin: Created the basics of the tag_builder class.
 
-**Thoughts:** ...
+**Thoughts:** non today.
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
