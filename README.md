@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 3: February 5, 2019
+
+**Today's Progress**:
+- Seobox plugin: Added seobox_make_meta_array hook.
+- Seobox plugin: Added seobox_make_meta_tag hook.
+
+**Thoughts:** Non yet.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 2: February 4, 2019
 
 **Today's Progress**:
@@ -11,7 +21,7 @@
 - Seobox plugin: Released 0.5.0 pre-release to github.
 - Seobox plugin: Created the basics of the tag_builder class.
 
-**Thoughts:** non today.
+**Thoughts:** Non today.
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
