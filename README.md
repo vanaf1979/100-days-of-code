@@ -1,6 +1,6 @@
 # #100DaysOfCode Challenge
 
-**Challange info:** [#100DaysOfCode](https://www.100daysofcode.com/)
+**Challenge info:** [#100DaysOfCode](https://www.100daysofcode.com/)
 
 # 100 Days Of Code - Log
 
