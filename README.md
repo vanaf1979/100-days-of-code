@@ -10,6 +10,7 @@
 - Seobox plugin: Added seobox_make_meta_array hook.
 - Seobox plugin: Added seobox_make_meta_tag hook.
 - Seobox plugin: Added support for the title tag to tag builder class.
+- Seobox plugin: Updated all npm packages.
 
 **Thoughts:** Non yet.
 
