@@ -10,6 +10,7 @@
 - Seobox plugin: Added fontawesome icons to admin tabs.
 - Seobox plugin: Added tags tab to settigns page.
 - Seobox plugin: Started with settings page layout.
+- Seobox website: Created test grafic for header slider.
 
 **Thoughts:** Non yet.
 
