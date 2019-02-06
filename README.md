@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 4: February 6, 2019
+
+**Today's Progress**:
+- Seobox plugin: Added fontawesome icons to admin tabs.
+- Seobox plugin: Added tags tab to settigns page.
+
+**Thoughts:** Non yet.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 3: February 5, 2019
 
 **Today's Progress**:
@@ -12,7 +22,7 @@
 - Seobox plugin: Added support for the title tag to tag builder class.
 - Seobox plugin: Updated all npm packages.
 
-**Thoughts:** Non yet.
+**Thoughts:** Non.
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
