@@ -9,6 +9,7 @@
 **Today's Progress**:
 - Va79 site: Setup a new github repository.
 - Va79 site: Created functions.php boilerplate.
+- FunctionsPhp: Created a repository for functions.php boilerplate.
 
 **Thoughts:** Non yet.
 
