@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 5: February 7, 2019
+
+**Today's Progress**:
+- Va79 site: Setup a new github repository.
+- Va79 site: Created functions.php boilerplate.
+
+**Thoughts:** Non yet.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 4: February 6, 2019
 
 **Today's Progress**:
@@ -12,7 +22,7 @@
 - Seobox plugin: Started with settings page layout.
 - Seobox website: Created test grafic for header slider.
 
-**Thoughts:** Non yet.
+**Thoughts:** Non.
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
