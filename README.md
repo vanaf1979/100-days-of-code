@@ -10,8 +10,9 @@
 - Va79 site: Setup a new github repository.
 - Va79 site: Created functions.php boilerplate.
 - FunctionsPhp: Created a repository for functions.php boilerplate.
+- FunctionsPhp: Added code to functions.php boilerplate.
 
-**Thoughts:** Non yet.
+**Thoughts:** Non.
 
 **Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
