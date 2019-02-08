@@ -8,6 +8,7 @@
 
 **Today's Progress**:
 - Seobox plugin: Added a class for schema shortcodes.
+- Seobox plugin: Added basic schema shortcode functionality.
 
 
 **Thoughts:** Non.
