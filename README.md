@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 6: February 8, 2019
+
+**Today's Progress**:
+- Seobox plugin: Added a class for schema shortcodes.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 5: February 7, 2019
 
 **Today's Progress**:
