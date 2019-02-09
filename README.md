@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 7: February 9, 2019
+
+**Today's Progress**:
+- Seobox plugin: Researched the settings page layout.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 6: February 8, 2019
 
 **Today's Progress**:
