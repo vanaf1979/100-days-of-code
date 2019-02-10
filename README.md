@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 8: February 10, 2019
+
+**Today's Progress**:
+- Seobox plugin: Added google settings layout.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 7: February 9, 2019
 
 **Today's Progress**:
