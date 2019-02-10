@@ -8,6 +8,7 @@
 
 **Today's Progress**:
 - Seobox plugin: Added google settings layout.
+- Seobox plugin: Added G browser title settigns functions.
 
 
 **Thoughts:** Non.
