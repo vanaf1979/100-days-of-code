@@ -11,6 +11,7 @@
 - Seobox plugin: Added settings keywords functions.
 - Seobox plugin: Added settings description functions.
 - Seobox plugin: Added settings robots functions.
+- Seobox plugin: Moved tagbuilder class to includes folder.
 
 
 **Thoughts:** Non.
