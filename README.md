@@ -4,6 +4,17 @@
 
 # 100 Days Of Code - Log
 
+### Day 9: February 11, 2019
+
+**Today's Progress**:
+- Seobox plugin: Renamed SeoBox to Seobox.
+- Seobox plugin: Added settings keywords functions.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 8: February 10, 2019
 
 **Today's Progress**:
