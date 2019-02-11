@@ -8,10 +8,8 @@
 
 **Today's Progress**:
 - Seobox plugin: Renamed SeoBox to Seobox.
-- Seobox plugin: Added settings keywords functions.
-- Seobox plugin: Added settings description functions.
-- Seobox plugin: Added settings robots functions.
 - Seobox plugin: Moved tagbuilder class to includes folder.
+- Seobox plugin: Added all google settings functions.
 - Seobox plugin: Added all facebook settings functions.
 - Seobox plugin: Added persistent tabs to settings page
 
