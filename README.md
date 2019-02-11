@@ -9,6 +9,8 @@
 **Today's Progress**:
 - Seobox plugin: Renamed SeoBox to Seobox.
 - Seobox plugin: Added settings keywords functions.
+- Seobox plugin: Added settings description functions.
+- Seobox plugin: Added settings robots functions.
 
 
 **Thoughts:** Non.
