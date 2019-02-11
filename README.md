@@ -11,7 +11,8 @@
 - Seobox plugin: Moved tagbuilder class to includes folder.
 - Seobox plugin: Added all google settings functions.
 - Seobox plugin: Added all facebook settings functions.
-- Seobox plugin: Added persistent tabs to settings page
+- Seobox plugin: Added persistent tabs to settings page.
+- Seobox plugin: Added skeleton meta values class.
 
 
 **Thoughts:** Non.
