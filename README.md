@@ -12,6 +12,7 @@
 - Seobox plugin: Added settings description functions.
 - Seobox plugin: Added settings robots functions.
 - Seobox plugin: Moved tagbuilder class to includes folder.
+- Seobox plugin: Added all facebook settings functions.
 
 
 **Thoughts:** Non.
