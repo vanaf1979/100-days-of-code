@@ -12,6 +12,7 @@
 - Local: Updated node on my maschine.
 - Va79 site: Styled the main nav.
 - Va79 site: Added basic swiper functions.
+- Va79 site: Build slider componnent
 
 
 **Thoughts:** Non.
