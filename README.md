@@ -4,6 +4,17 @@
 
 # 100 Days Of Code - Log
 
+### Day 10: February 12, 2019
+
+**Today's Progress**:
+- Va79 site: Removed obsolete junk.
+- Va79 site: Updated composer.json with all plugins.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 9: February 11, 2019
 
 **Today's Progress**:
