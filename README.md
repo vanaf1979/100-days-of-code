@@ -11,6 +11,7 @@
 - Va79 site: Updated composer.json with all plugins.
 - Local: Updated node on my maschine.
 - Va79 site: Styled the main nav.
+- Va79 site: Added basic swiper functions.
 
 
 **Thoughts:** Non.
