@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 11: February 13, 2019
+
+**Today's Progress**:
+- Va79 site: Added intro section with Bigpicture.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 10: February 12, 2019
 
 **Today's Progress**:
