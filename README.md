@@ -8,6 +8,7 @@
 
 **Today's Progress**:
 - Va79 site: Added intro section with Bigpicture.
+- Va79 site: Added contact and footer components
 
 
 **Thoughts:** Non.
