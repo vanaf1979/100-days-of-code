@@ -4,11 +4,22 @@
 
 # 100 Days Of Code - Log
 
+### Day 12: February 14, 2019
+
+**Today's Progress**:
+- Va79 site: Changed the contact and footer components.
+- Va79 site: Added a breadcrumb component.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 11: February 13, 2019
 
 **Today's Progress**:
 - Va79 site: Added intro section with Bigpicture.
-- Va79 site: Added contact and footer components
+- Va79 site: Added contact and footer components.
 
 
 **Thoughts:** Non.
