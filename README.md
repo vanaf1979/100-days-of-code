@@ -10,6 +10,8 @@
 - Va79 site: Changed the contact and footer components.
 - Va79 site: Added a breadcrumb component.
 - Va79 site: Added a projects component.
+- Va79 site: Added a writing component.
+- Va79 site: Added a parallax component.
 
 
 **Thoughts:** Non.
