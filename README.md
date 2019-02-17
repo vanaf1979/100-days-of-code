@@ -10,6 +10,7 @@
 - Va79 site: Added responsive details to homepage.
 - Va79 site: Added slides to Wordpress.
 - Va79 site: Added main nav to Wordpress.
+- Functionsphp: Renamed Functions to Functionsphp.
 
 
 **Thoughts:** Non.
