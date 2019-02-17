@@ -4,7 +4,17 @@
 
 # 100 Days Of Code - Log
 
-### Day 12: February 14, 2019
+### Day 15: February 17, 2019
+
+**Today's Progress**:
+- Va79 site: Added responsive details to homepage.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
+### Day 14: February 16, 2019
 
 **Today's Progress**:
 - Va79 site: Started with article pages.
@@ -12,13 +22,17 @@
 
 **Thoughts:** Non.
 
-### Day 13: February 16, 2019
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
+### Day 13: February 15, 2019
 
 **Today's Progress**:
 - No time due to client work
 
 
 **Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
 
 ### Day 12: February 14, 2019
 
