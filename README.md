@@ -11,6 +11,7 @@
 - Va79 site: Added slides to Wordpress.
 - Va79 site: Added main nav to Wordpress.
 - Functionsphp: Renamed Functions to Functionsphp.
+- Va79 site: Realigned the main navigation.
 
 
 **Thoughts:** Non.
