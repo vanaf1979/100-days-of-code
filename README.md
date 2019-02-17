@@ -8,6 +8,7 @@
 
 **Today's Progress**:
 - Va79 site: Added responsive details to homepage.
+- Va79 site: Added slides to Wordpress.
 
 
 **Thoughts:** Non.
