@@ -4,6 +4,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 16: February 19, 2019
+
+**Today's Progress**:
+- Va79 site: Added project logo's.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 15: February 17, 2019
 
 **Today's Progress**:
