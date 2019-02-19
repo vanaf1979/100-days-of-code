@@ -4,10 +4,21 @@
 
 # 100 Days Of Code - Log
 
+### Day 17: February 19, 2019
+
+**Today's Progress**:
+- Writing: Wordked on my Styles and Scripts article.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+
 ### Day 16: February 19, 2019
 
 **Today's Progress**:
 - Va79 site: Added project logo's.
+- Va79 site: Made a new local install.
 
 
 **Thoughts:** Non.
