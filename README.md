@@ -4,6 +4,17 @@
 
 # 100 Days Of Code - Log
 
+### Day 18: February 21, 2019
+
+**Today's Progress**:
+- Writing: Published my Styles and Scripts article.
+- Writing: Worked on my Wordpress February article.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [WordPress: Css Styles and Javascripts in theme development](http://bit.ly/2GTjhAl)
+
 ### Day 17: February 19, 2019
 
 **Today's Progress**:
