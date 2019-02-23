@@ -4,6 +4,17 @@
 
 # 100 Days Of Code - Log
 
+### Day 19: February 22, 2019
+
+**Today's Progress**:
+- Writing: Worked on my January recap article.
+- Writing: Worked on my Npm/Mix article.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf197 on Medium](https://medium.com/@vanaf1979)
+
 ### Day 18: February 21, 2019
 
 **Today's Progress**:
