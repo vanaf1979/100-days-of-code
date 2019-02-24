@@ -2,7 +2,28 @@
 
 **Challenge info:** [#100DaysOfCode](https://www.100daysofcode.com/)
 
+
 # 100 Days Of Code - Log
+
+### Day 21: February 24, 2019
+
+**Today's Progress**:
+- Seobox: Added image upload markup to settings.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf197](https://vanaf1979.nl)
+
+### Day 20: February 23, 2019
+
+**Today's Progress**:
+- Seobox: Researched the wp.media js object.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf197](https://vanaf1979.nl)
 
 ### Day 19: February 22, 2019
 
