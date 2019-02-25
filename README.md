@@ -9,6 +9,9 @@
 
 **Today's Progress**:
 - Seobox: Added twitter settings.
+- Seobox: Added Schema settings.
+- Seobox: Added Tags settings.
+- Seobox: Added Seobox settings.
 
 
 **Thoughts:** Non.
