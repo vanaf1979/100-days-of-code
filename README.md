@@ -8,7 +8,7 @@
 ### Day 22: February 25, 2019
 
 **Today's Progress**:
-- Seobox: Added twitter settings.
+- Seobox: Added Twitter settings.
 - Seobox: Added Schema settings.
 - Seobox: Added Tags settings.
 - Seobox: Added Seobox settings.
