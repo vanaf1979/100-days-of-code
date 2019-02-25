@@ -26,7 +26,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf197](https://vanaf1979.nl)
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
 
 ### Day 20: February 23, 2019
 
@@ -47,7 +47,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf197 on Medium](https://medium.com/@vanaf1979)
+**Link to work:** [Vanaf1979 on Medium](https://medium.com/@vanaf1979)
 
 ### Day 18: February 21, 2019
 
