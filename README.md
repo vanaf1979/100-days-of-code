@@ -5,7 +5,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 21: February 24, 2019
+### Day 22: February 25, 2019
 
 **Today's Progress**:
 - Seobox: Added twitter settings.
