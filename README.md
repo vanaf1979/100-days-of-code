@@ -8,6 +8,16 @@
 ### Day 21: February 24, 2019
 
 **Today's Progress**:
+- Seobox: Added twitter settings.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
+
+### Day 21: February 24, 2019
+
+**Today's Progress**:
 - Seobox: Added image upload markup to settings.
 
 
@@ -23,7 +33,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf197](https://vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 19: February 22, 2019
 
@@ -155,7 +165,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 8: February 10, 2019
 
@@ -166,7 +176,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 7: February 9, 2019
 
@@ -176,7 +186,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 6: February 8, 2019
 
@@ -187,7 +197,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 5: February 7, 2019
 
@@ -211,7 +221,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 3: February 5, 2019
 
@@ -223,7 +233,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 2: February 4, 2019
 
@@ -234,7 +244,7 @@
 
 **Thoughts:** Non today.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Seobox](https://seobox.vanaf1979.nl)
 
 ### Day 1: February 3, 2019
 ##### Joined the 100 days of code challange.
@@ -250,4 +260,4 @@
 
 **Thoughts:** When stuck, move on to other parts of the task.
 
-**Link to work:** [Vanaf1979](https://www.vanaf1979.nl)
+**Link to work:** [Vanaf1979](https://www.vanaf1979.nl) [Seobox](https://seobox.vanaf1979.nl)
