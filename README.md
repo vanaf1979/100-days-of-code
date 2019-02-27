@@ -5,6 +5,26 @@
 
 # 100 Days Of Code - Log
 
+### Day 25: February 27, 2019
+
+**Today's Progress**:
+- VainCss: Worked on the typography with golden ratio's.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 24: February 26, 2019
+
+**Today's Progress**:
+- VainCss: Started a revamp of my little wp css framework.
+- VainCss: Rerstructerd to sass/scss.
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 22: February 25, 2019
 
 **Today's Progress**:
