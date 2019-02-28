@@ -5,10 +5,21 @@
 
 # 100 Days Of Code - Log
 
+### Day 26: February 28, 2019
+
+**Today's Progress**:
+- Writing: Finished and published my Wp february recap article.
+- Bravo.css: Created a little test site.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Wordpress Dev Monthly Recap February](http://bit.ly/wp-february)
+
 ### Day 25: February 27, 2019
 
 **Today's Progress**:
-- VainCss: Worked on the typography with golden ratio's.
+- Bravo.css: Worked on the typography with golden ratio's.
 
 
 **Thoughts:** Non.
