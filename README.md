@@ -29,8 +29,8 @@
 ### Day 24: February 26, 2019
 
 **Today's Progress**:
-- VainCss: Started a revamp of my little wp css framework.
-- VainCss: Rerstructerd to sass/scss.
+- Bravo.css: Started a revamp of my little wp css framework.
+- Bravo.css: Rerstructerd to sass/scss.
 
 **Thoughts:** Non.
 
