@@ -10,6 +10,7 @@
 **Today's Progress**:
 - Writing: Finished and published my Wp february recap article.
 - Bravo.css: Created a little test site.
+- Bravo.css: Setup a netlify site.
 
 
 **Thoughts:** Non.
