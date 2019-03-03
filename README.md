@@ -10,6 +10,7 @@
 **Today's Progress**:
 - Va79 site: Replaced css utils with bravo.css.
 - Va79 site: Moved to E6 Modules.
+- Va79 site: Refactored main nav to Scss.
 
 
 **Thoughts:** Non.
