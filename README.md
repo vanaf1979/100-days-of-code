@@ -5,6 +5,17 @@
 
 # 100 Days Of Code - Log
 
+### Day 27: March 3, 2019
+
+**Today's Progress**:
+- Va79 site: Replaced css utils with bravo.css.
+- Va79 site: Moved to E6 Modules.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Wordpress Dev Monthly Recap February](http://bit.ly/wp-february)
+
 ### Day 26: February 28, 2019
 
 **Today's Progress**:
