@@ -8,6 +8,16 @@
 ### Day 27: March 3, 2019
 
 **Today's Progress**:
+- Va79 site: Animated the header slider.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 27: March 3, 2019
+
+**Today's Progress**:
 - Va79 site: Replaced css utils with bravo.css.
 - Va79 site: Moved to E6 Modules.
 - Va79 site: Refactored main nav to Scss.
