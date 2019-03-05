@@ -5,7 +5,17 @@
 
 # 100 Days Of Code - Log
 
-### Day 27: March 3, 2019
+### Day 27: March 5, 2019
+
+**Today's Progress**:
+- Researched intersection observer.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 27: March 4, 2019
 
 **Today's Progress**:
 - Va79 site: Animated the header slider.
