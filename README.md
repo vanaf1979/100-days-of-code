@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 28: March 6, 2019
+
+**Today's Progress**:
+- Va79 site: Added manifest and vendor js files.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 27: March 5, 2019
 
 **Today's Progress**:
