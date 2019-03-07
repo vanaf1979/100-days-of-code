@@ -5,7 +5,15 @@
 
 # 100 Days Of Code - Log
 
-### Day 28: March 6, 2019
+### Day 29: March 7, 2019
+
+**Today's Progress**:
+- Writting: Created a demo theme for my Laravel Mix tutorial.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
 
 **Today's Progress**:
 - Va79 site: Added manifest and vendor js files.
