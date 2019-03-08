@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 30: March 8, 2019
+
+**Today's Progress**:
+- Va79 site: Moved to a new theme only repository.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 29: March 7, 2019
 
 **Today's Progress**:
