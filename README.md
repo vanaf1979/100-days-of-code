@@ -9,6 +9,7 @@
 
 **Today's Progress**:
 - Va79 site: Moved to a new theme only repository.
+- Va79 site: Added an image background to contacr area.
 
 
 **Thoughts:** Non.
