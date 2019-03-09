@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 31: March 9, 2019
+
+**Today's Progress**:
+- Va79 site: Studies up on Wpordpress ajax hooks.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 30: March 8, 2019
 
 **Today's Progress**:
