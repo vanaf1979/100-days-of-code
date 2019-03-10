@@ -9,6 +9,7 @@
 
 **Today's Progress**:
 - FunctionsPhp: Refactored the codebase.
+- Va79 site: Refactored some of the styles to scss.
 
 
 **Thoughts:** Non.
