@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 32: March 10, 2019
+
+**Today's Progress**:
+- FunctionsPhp: Refactored the codebase.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 31: March 9, 2019
 
 **Today's Progress**:
