@@ -5,6 +5,26 @@
 
 # 100 Days Of Code - Log
 
+### Day 34: March 12, 2019
+
+**Today's Progress**:
+- Va79 Site: Added lazysizes library.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 33: March 11, 2019
+
+**Today's Progress**:
+- Va79 Site: Studied up on wp settings pages.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 32: March 10, 2019
 
 **Today's Progress**:
