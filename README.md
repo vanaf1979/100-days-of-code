@@ -5,6 +5,26 @@
 
 # 100 Days Of Code - Log
 
+### Day 36: March 14, 2019
+
+**Today's Progress**:
+- Va79 Site: Tested some vscode extentions.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 35: March 14, 2019
+
+**Today's Progress**:
+- Va79 Site: Researched code linting.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 34: March 12, 2019
 
 **Today's Progress**:
