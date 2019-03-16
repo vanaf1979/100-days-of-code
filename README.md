@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 37: March 16, 2019
+
+**Today's Progress**:
+- Writing: Worked on my laravel mix tutorial.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 36: March 14, 2019
 
 **Today's Progress**:
