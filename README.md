@@ -5,6 +5,17 @@
 
 # 100 Days Of Code - Log
 
+### Day 38: March 25, 2019
+
+**Today's Progress**:
+- FunctionsPhp: Added autoloader class.
+- FunctionsPhp: Added namespaces.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 37: March 16, 2019
 
 **Today's Progress**:
