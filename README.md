@@ -10,11 +10,14 @@
 **Today's Progress**:
 - FunctionsPhp: Added autoloader class.
 - FunctionsPhp: Added namespaces.
+- FunctionsPhp: Did some refactoring.
+- FunctionsPhp: Added a readme.md.
+- FunctionsPhp: Asked for feedback and suggestions on Twitter.
 
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+**Link to work:** [FunctionsPhp on Github](https://github.com/vanaf1979/functionsphp)
 
 ### Day 37: March 16, 2019
 
