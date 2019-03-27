@@ -5,6 +5,29 @@
 
 # 100 Days Of Code - Log
 
+### Day 40: March 25, 2019
+
+**Today's Progress**:
+- SeoBox: Started refacoring to autoloading and namespaces.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 39: March 26, 2019
+
+**Today's Progress**:
+- FunctionsPhp: Replaced Autoloader with custom class.
+- FunctionsPhp: Added a bootstrap php.
+- FunctionsPhp: Reindented all code.
+- FunctionsPhp: Refactored some small things.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [FunctionsPhp on Github](https://github.com/vanaf1979/functionsphp)
+
 ### Day 38: March 25, 2019
 
 **Today's Progress**:
