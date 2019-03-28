@@ -12,6 +12,7 @@
 - SeoBox: Refactored to use Php namespaces.
 - SeoBox: Added content to the readme.md file.
 - SeoBox: Released version 0.6.0 to GitHub.
+- FunctionsPhp: Refactored some code.
 
 
 **Thoughts:** Non.
