@@ -5,7 +5,20 @@
 
 # 100 Days Of Code - Log
 
-### Day 40: March 25, 2019
+### Day 41: March 28, 2019
+
+**Today's Progress**:
+- SeoBox: Refactored to use autoloader.
+- SeoBox: Refactored to use Php namespaces.
+- SeoBox: Added content to the readme.md file.
+- SeoBox: Released version 0.6.0 to GitHub.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [SeoBox GitHub Repo](https://github.com/vanaf1979/seobox)
+
+### Day 40: March 27, 2019
 
 **Today's Progress**:
 - SeoBox: Started refacoring to autoloading and namespaces.
@@ -13,7 +26,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+**Link to work:** [SeoBox GitHub Repo](https://github.com/vanaf1979/seobox)
 
 ### Day 39: March 26, 2019
 
@@ -26,7 +39,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [FunctionsPhp on Github](https://github.com/vanaf1979/functionsphp)
+**Link to work:** [FunctionsPhp Github Repo](https://github.com/vanaf1979/functionsphp)
 
 ### Day 38: March 25, 2019
 
@@ -40,7 +53,7 @@
 
 **Thoughts:** Non.
 
-**Link to work:** [FunctionsPhp on Github](https://github.com/vanaf1979/functionsphp)
+**Link to work:** [FunctionsPhp Github Repo](https://github.com/vanaf1979/functionsphp)
 
 ### Day 37: March 16, 2019
 
