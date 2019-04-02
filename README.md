@@ -5,6 +5,38 @@
 
 # 100 Days Of Code - Log
 
+### Day 44: April 2, 2019
+
+**Today's Progress**:
+- Bravo.css: Refactored some code to Scss.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+
+### Day 43: March 30, 2019
+
+**Today's Progress**:
+- Writing: Published march recap article.
+- Writing: Promoted march recap article.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [WordPress Dev Monthly Recap March](https://medium.com/@vanaf1979/wordpress-dev-monthly-recap-for-march-30b0e984de76)
+
+### Day 42: March 29, 2019
+
+**Today's Progress**:
+- Writing: Finished march recap article.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [WordPress Dev Monthly Recap March](https://medium.com/@vanaf1979/wordpress-dev-monthly-recap-for-march-30b0e984de76)
+
 ### Day 41: March 28, 2019
 
 **Today's Progress**:
