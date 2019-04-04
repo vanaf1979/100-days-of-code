@@ -5,6 +5,18 @@
 
 # 100 Days Of Code - Log
 
+### Day 45: April 4, 2019
+
+**Today's Progress**:
+- SeoBox: Added a Title value class.
+- SeoBox: Added a Google values class.
+- SeoBox: Refactored frontend class.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 44: April 2, 2019
 
 **Today's Progress**:
