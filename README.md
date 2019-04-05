@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 46: April 5, 2019
+
+**Today's Progress**:
+- Learning: Refreshed my react knowledge with a scrimba course.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+
 ### Day 45: April 4, 2019
 
 **Today's Progress**:
