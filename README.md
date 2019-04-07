@@ -5,10 +5,31 @@
 
 # 100 Days Of Code - Log
 
+### Day 48: April 7, 2019
+
+**Today's Progress**:
+- Learning: Continued brushing up my react knowledge with a scrimba course.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+
+### Day 47: April 6, 2019
+
+**Today's Progress**:
+- Learning: Continued brushing up my react knowledge with a scrimba course.
+- Learning: Brushed up on higher order array functions.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+
 ### Day 46: April 5, 2019
 
 **Today's Progress**:
-- Learning: Refreshed my react knowledge with a scrimba course.
+- Learning: Brushing up my react knowledge with a scrimba course.
 
 
 **Thoughts:** Non.
