@@ -5,6 +5,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 49: April 8, 2019
+
+**Today's Progress**:
+- Learning: Learned about Redux and React.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
+
 ### Day 48: April 7, 2019
 
 **Today's Progress**:
