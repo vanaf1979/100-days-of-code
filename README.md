@@ -5,6 +5,26 @@
 
 # 100 Days Of Code - Log
 
+### Day 51: April 10, 2019
+
+**Today's Progress**:
+- Learning: Created a local react dev enviroment.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 50: April 9, 2019
+
+**Today's Progress**:
+- Learning: Continued brushing up my react knowledge with a scrimba course.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Scrimba: Learn React for free](https://scrimba.com/playlist/p7P5Hd)
+
 ### Day 49: April 8, 2019
 
 **Today's Progress**:
