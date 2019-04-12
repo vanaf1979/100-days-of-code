@@ -5,6 +5,26 @@
 
 # 100 Days Of Code - Log
 
+### Day 53: April 12, 2019
+
+**Today's Progress**:
+- Learning: Hooked Laravel/GraphQl server to frontend react app.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
+### Day 52: April 11, 2019
+
+**Today's Progress**:
+- Learning: Setup a Laravel/GraphQl server.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 51: April 10, 2019
 
 **Today's Progress**:
