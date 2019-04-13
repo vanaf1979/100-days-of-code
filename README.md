@@ -5,10 +5,22 @@
 
 # 100 Days Of Code - Log
 
+### Day 54: April 13, 2019
+
+**Today's Progress**:
+- Actinic: Added masonry grid.
+- Actinic: Added infinite scroll.
+- Actinic: Added react router.
+
+
+**Thoughts:** Non.
+
+**Link to work:** [Vanaf1979](https://vanaf1979.nl)
+
 ### Day 53: April 12, 2019
 
 **Today's Progress**:
-- Learning: Hooked Laravel/GraphQl server to frontend react app.
+- Actinic: Hooked Laravel/GraphQl server to frontend react app.
 
 
 **Thoughts:** Non.
@@ -18,7 +30,7 @@
 ### Day 52: April 11, 2019
 
 **Today's Progress**:
-- Learning: Setup a Laravel/GraphQl server.
+- Actinic: Setup a Laravel/GraphQl server.
 
 
 **Thoughts:** Non.
@@ -28,7 +40,7 @@
 ### Day 51: April 10, 2019
 
 **Today's Progress**:
-- Learning: Created a local react dev enviroment.
+- Actinic: Created a local react dev enviroment.
 
 
 **Thoughts:** Non.
